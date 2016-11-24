@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8027ARTZ
+D 190MHz Single Rail-to-Rail Op-Amp
+K rail-to-rail op-amp
+F http://www.farnell.com/datasheets/1780730.pdf
+$ENDCMP
+#
 $CMP AUTOTRANS
 D Piezo Autotransformer. Approx 150mH with 1:100 ratio
 $ENDCMP
