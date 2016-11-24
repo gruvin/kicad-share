@@ -1,0 +1,9 @@
+# Wings
+*~
+
+# KiCAD
+*.bak
+*.bck
+*-bak
+_autosave-*
+
